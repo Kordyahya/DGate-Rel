@@ -33,5 +33,5 @@ pip install -r requirements.txt
 The three public datasets used in the paper must be downloaded separately (they are not included here):
 
 - **COVID-19 Radiography** — https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
-- **COVID-CT slices** — https://www.kaggle.com/datasets/maitrisharma/covid-ct-md
+- **COVID-CT slices** — [https://www.kaggle.com/datasets/maitrisharma/covid-ct-md](https://www.kaggle.com/datasets/maedemaftouni/large-covid19-ct-slice-dataset)
 - **Brain Tumor MRI** — https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
