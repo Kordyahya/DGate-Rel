@@ -10,7 +10,7 @@
 # Controlled matrix: 3 datasets x 3 training fractions x 5 seeds.
 # Seeds: 42, 43, 44, 45, 46.
 # No diagnostic-only methods are exposed in this release.
-# ================================================================
+# ===============================================================
 
 STAGE = "paper"
 SMOKE_TEST = False
